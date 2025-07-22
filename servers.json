@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "Serveur officiel 🇫🇷",
-      "url": "https://ani.sidestore.io"
+      "address": "https://ani.sidestore.io"
     }
   ]
 }
